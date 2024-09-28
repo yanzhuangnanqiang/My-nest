@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Background Image</title>
+    <style>
+        body {
+            background-image: url('C:\Program Files (x86)\Steam\steamapps\workshop\content\431960\1195626192');
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+    <h1>My-nest</h1>
+    <p>Be happy everyday</p>My-
+</body>
+</html>
