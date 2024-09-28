@@ -4,7 +4,7 @@
     <title>Background Image</title>
     <style>
         body {
-            background-image: url('');
+            background-image: url('https://github.com/yanzhuangnanqiang/My-nest/blob/main/preview.jpg');
             background-size: cover;
         }
     </style>
